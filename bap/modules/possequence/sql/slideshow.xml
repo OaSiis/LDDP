@@ -1,0 +1,97 @@
+<pos_sequence>
+<!-- slideshow  configuration -->
+
+	<sequence>
+		<id_pos_sequence>1</id_pos_sequence>
+		<animate>animate-in</animate>
+		<kind_effect>1</kind_effect>
+		<active>1</active>
+		<porder>0</porder>
+	</sequence>
+	<sequence>
+		<id_pos_sequence>2</id_pos_sequence>
+		<animate>animate-in</animate>
+		<kind_effect>2</kind_effect>
+		<active>1</active>
+		<porder>0</porder>
+	</sequence>
+	<sequence>
+		<id_pos_sequence>3</id_pos_sequence>
+		<animate>animate-in</animate>
+		<kind_effect>3</kind_effect>
+		<active>1</active>
+		<porder>0</porder>
+	</sequence>
+	
+
+<!-- slideshow  language configuration -->	
+
+	<sequence_lang>
+		<id_pos_sequence>1</id_pos_sequence>
+		<id_lang>1</id_lang>
+		<title1>New Apple Products</title1>
+		<title2> Get up to 50% sale</title2>
+		<link>http://posthemes.com/</link>
+		<description> This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.. </description>
+	</sequence_lang>
+	<sequence_lang>
+		<id_pos_sequence>2</id_pos_sequence>
+		<id_lang>1</id_lang>
+		<title1>New Apple Products</title1>
+		<title2>Get up to 50% sale</title2>
+		<link>http://posthemes.com/</link>
+		<description> This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.. </description>
+	</sequence_lang>
+	<sequence_lang>
+		<id_pos_sequence>3</id_pos_sequence>
+		<id_lang>1</id_lang>
+		<title1>New Apple Products</title1>
+		<title2> Get up to 50% sale</title2>
+		<link>http://posthemes.com/</link>
+		<description> This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.. </description>
+	</sequence_lang>
+	
+	
+	<sequence_lang>
+		<id_pos_sequence>1</id_pos_sequence>
+		<id_lang>2</id_lang>
+		<title1>New Apple Products</title1>
+		<title2>Get up to 50% sale</title2>
+		<link>http://posthemes.com/</link>
+		<description> This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.. </description>
+	</sequence_lang>
+	<sequence_lang>
+		<id_pos_sequence>2</id_pos_sequence>
+		<id_lang>2</id_lang>
+		<title1>New Apple Products</title1>
+		<title2>Get up to 50% sale</title2>
+		<link>http://posthemes.com/</link>
+		<description> This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.. </description>
+	</sequence_lang>
+	<sequence_lang>
+		<id_pos_sequence>3</id_pos_sequence>
+		<id_lang>2</id_lang>
+		<title1>New Apple Products</title1>
+		<title2>Get up to 50% sale</title2>
+		<link>http://posthemes.com/</link>
+		<description> This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.. </description>
+	</sequence_lang>
+	
+
+<!-- slideshop configuration -->
+
+	<sequence_shop>
+		<id_pos_sequence>1</id_pos_sequence>
+		<id_shop>1</id_shop>
+	</sequence_shop>
+	<sequence_shop>
+		<id_pos_sequence>2</id_pos_sequence>
+		<id_shop>1</id_shop>
+	</sequence_shop>
+	<sequence_shop>
+		<id_pos_sequence>3</id_pos_sequence>
+		<id_shop>1</id_shop>
+	</sequence_shop>
+	
+
+</pos_sequence>
